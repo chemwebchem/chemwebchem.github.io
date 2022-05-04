@@ -1,37 +1,71 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/chemwebchem/chemwebchem.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 学校学院
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[南开大学](https://www.nankai.edu.cn/)
 
-### Markdown
+[南开大学化学学院](https://chem.nankai.edu.cn/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[西湖大学](https://www.westlake.edu.cn/)
 
-```markdown
-Syntax highlighted code block
+### 国科大
 
-# Header 1
-## Header 2
-### Header 3
+[国科大](https://www.ucas.ac.cn/)
 
-- Bulleted
-- List
+[国科大化学学院](https://chem.ucas.ac.cn/index.php/zh-cn/)
 
-1. Numbered
-2. List
+[SEP教务系统](http://sep.ucas.ac.cn/)
 
-**Bold** and _Italic_ and `Code` text
+[中国科技云通行证](https://passport.escience.cn/login)
 
-[Link](url) and ![Image](src)
-```
+### 中科院化学所
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[中国科学院化学研究所](http://www.iccas.ac.cn/)
 
-### Jekyll Themes
+[电子所务](http://dzsw.iccas.ac.cn/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chemwebchem/chemwebchem.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[过夜实验审批系统](http://159.226.64.173:9011/index.html#/user/login?redirect=%2Fdashboard%2Fanalysis)
 
-### Support or Contact
+[库房管理系统](http://wuliu.iccas.ac.cn/)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 课题组
+
+[碳材料小组](http://www.niu.nankai.edu.cn/index.htm)
+
+[纳米半导体材料实验室](http://shilab.mysxl.cn/)
+
+[韩布兴院士课题组](http://159.226.64.165/web/23102/home)
+
+[孙晓甫研究员](https://people.ucas.ac.cn/~0066895)
+
+### 文献跟踪
+
+[X-MOL](https://www.x-mol.com/)
+
+[LetPub](http://www.letpub.com.cn/index.php?page=journalapp)
+
+[SCI-HUB](https://www.sci-hub.ren/)
+
+[Google 学术搜索](https://scholar.google.com/)
+
+[Reaxy](https://www.reaxys.com/#/login)
+
+[Academic Accelerator](https://academic-accelerator.com/)
+
+### 文章写作
+
+[CCC](https://www.copyright.com/publishers/rightslink-permissions/)
+
+[CNKI 学术翻译](https://dict.cnki.net/index)
+
+[Color Picker](https://colorsupplyyy.com/app)
+
+[DeepL](https://www.deepl.com/translator)
+
+[Global Monitoring Laboratory](https://gml.noaa.gov/ccgg/trends/)
+
+[Grammarly](https://www.grammarly.com/)
+
+[LaTeX公式编辑器](https://www.latexlive.com/)
+
+[Thesaurus](https://www.thesaurus.com/)
